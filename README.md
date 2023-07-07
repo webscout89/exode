@@ -1,2 +1,2 @@
 # exode
-émigration
+logiciel d'émigration
